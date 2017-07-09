@@ -5,8 +5,8 @@
 
 ## How To Use
 
-1、配置Cookie Header
-2、运行
+* 1、配置Cookie Header
+* 2、运行
 
 
 
